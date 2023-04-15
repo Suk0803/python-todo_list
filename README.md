@@ -1,6 +1,6 @@
-# Flet-tutorial
-## Todo-list
+# python todolist with used Flet library
 
+## Todo-list
 ```
 import flet
 from flet import (
